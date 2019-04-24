@@ -57,4 +57,5 @@ class GAN(object):
         adversary_weights['w1'] = w1
         b1 = tf.Variable(tf.zeros([self.a_hidden_layer2]))
         adversary_weights['b1'] = b1
-        
+    
+    aa
